@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Achilles Joaquin Zubia! 👋</h1>
-<h3 align="center">🚀 Recent graduate with a passion for data science, eager to launch my career 🚀</h3>
+<h3 align="center">🚀 Junior Software Developer 🚀</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aszubia&label=Profile%20views&color=0e75b6&style=flat" alt="aszubia" /> 
